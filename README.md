@@ -1,2 +1,2 @@
 # First-day-demo
-Getting started with this BS
+Getting started with this BS.
